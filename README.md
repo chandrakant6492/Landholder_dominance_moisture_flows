@@ -14,7 +14,7 @@ The project’s analyses cover the following themes:
 4. **Resilience:** Assess rainfall and ecosystem-resilience scenarios over the Amazon study area.
 5. **Moisture footprints:** Summarize and visualize moisture footprints, including volumetric results.
 
-**Manuscript version note:** Where analysis materials are labeled `v1` or `v2`, these refer to the first and second versions of the manuscript, respectively; they do not indicate software or model releases.
+**Manuscript versions:** Version labels refer to manuscript versions: v1 is the first version and v2 is the second, not software or model releases.
 
 These are descriptions of the project’s prior analysis areas, not runnable instructions: the current `main` branch contains this README only; the analysis notebooks and other project files are not currently included.
 
