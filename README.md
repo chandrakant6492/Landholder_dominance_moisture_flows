@@ -37,3 +37,12 @@ The analysis notebooks use the following Python packages: NumPy, pandas, xarray,
 ## License
 
 No license file is currently included in this repository. The terms for reuse of the project materials are therefore not specified here. Input datasets may have separate licenses and usage restrictions; consult their original providers.
+
+## Contact
+
+If you have any questions or need help with the project, you can contact:
+
+**Chandrakant Singh**  
+Email: [chandrakant.singh@chalmers.se](mailto:chandrakant.singh@chalmers.se)  
+Physical Resource Theory, Department of Environmental and Energy Sciences,  
+Chalmers University of Technology, Gothenburg, Sweden
